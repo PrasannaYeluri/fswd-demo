@@ -1,1 +1,3 @@
 hello welcome
+step 1 access to git hub done
+step2 code pushed to cloud
